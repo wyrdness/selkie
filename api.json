@@ -1,10 +1,8 @@
 {
-  "category": "SHAPESHIFTER",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/selkie",
     "maintainers": [
       {
@@ -18,434 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "selkie",
     "name": "Selkie",
-    "aliases": [
-      {
-        "name": "Selchie",
-        "language": "Scots",
-        "region": "Scotland"
-      },
-      {
-        "name": "Silkie",
-        "language": "Scots",
-        "region": "Orkney Islands"
-      },
-      {
-        "name": "Selch",
-        "language": "Scots",
-        "meaning": "seal"
-      },
-      {
-        "name": "Roane",
-        "language": "Irish",
-        "region": "Ireland"
-      },
-      {
-        "name": "Selkiefolk",
-        "language": "English",
-        "region": "Northern Isles"
-      }
-    ],
+    "aliases": [],
     "category": "SHAPESHIFTER",
-    "subcategory": "Fae Folklore",
+    "subcategory": "|",
     "tags": [
-      "shapeshifter",
-      "fae",
-      "seal",
-      "scottish",
-      "irish",
-      "faroese",
-      "celtic-folklore",
-      "skin-changer",
-      "marine"
+      "&-themes"
     ],
-    "status": "traditional-folklore",
+    "status": "documented",
     "description": {
-      "summary": "Scottish, Irish, and Faroese seal-people who can shed their skins to become human on land. Central to Celtic coastal folklore, selkie tales explore themes of captivity, lost love, and the untameable nature of the sea.",
+      "summary": "Selkies are mythological beings from Scottish, Irish, and Faroese folklore who live as seals in the ocean but can shed their skins to become beautiful humans on land.",
       "full": "Selkies are mythological beings from Scottish, Irish, and Faroese folklore who live as seals in the ocean but can shed their skins to become beautiful humans on land. According to legend, if a human finds and hides a selkie's seal skin, the selkie is trapped in human form and cannot return to the sea. Common tales involve humans (usually men) stealing selkie skins and marrying them, only for the selkie to eventually find their hidden skin and return to the ocean, leaving their human family behind. The stories carry deep symbolism about freedom versus captivity, the pull of one's true nature, and love that cannot fully bridge two worlds. Children of human-selkie unions often exhibit signs of their heritage, such as webbed fingers or toes and a deep longing for the sea."
     },
     "etymology": {
-      "origin": "From Scots 'selch' or 'selk', meaning 'seal', ultimately from Old English 'seolh'",
-      "meaning": "Seal-folk or seal-people",
-      "first_use": "Documented in Scottish folklore since at least the 1600s"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "SHAPESHIFTER",
-      "type": "Fae/Supernatural",
-      "subtype": "Skin-changer",
-      "variant": "Celtic Maritime"
+      "type": "|",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "merfolk",
-        "name": "Merfolk",
-        "relationship": "similar",
-        "description": "Marine humanoids, though selkies are shapeshifters while merfolk are not"
-      },
-      {
-        "id": "swan-maiden",
-        "name": "Swan Maiden",
-        "relationship": "parallel_mythology",
-        "description": "Similar skin-stealing narratives with swan maidens"
-      },
-      {
-        "id": "kitsune",
-        "name": "Kitsune",
-        "relationship": "similar",
-        "description": "Japanese shapeshifting fox spirits with similar transformation themes"
-      },
-      {
-        "id": "werewolf",
-        "name": "Werewolf",
-        "relationship": "similar",
-        "description": "Shapeshifter archetype, though involuntary transformation"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "seal_form": {
-        "appearance": "Appears as a normal seal in water",
-        "coloration": [
-          "grey",
-          "brown",
-          "spotted"
-        ],
-        "features": [
-          {
-            "feature": "Seal skin",
-            "description": "Can be shed to transform into human form",
-            "frequency": "always"
-          },
-          {
-            "feature": "Large eyes",
-            "description": "Soulful, intelligent eyes even in seal form",
-            "frequency": "common"
-          }
-        ]
-      },
-      "human_form": {
-        "appearance": "Beautiful human form, often with dark hair and pale skin",
-        "features": [
-          {
-            "feature": "Beauty",
-            "description": "Extraordinarily beautiful or handsome in human form",
-            "frequency": "always"
-          },
-          {
-            "feature": "Webbed fingers/toes",
-            "description": "Slight webbing between digits (especially in half-selkie children)",
-            "frequency": "occasional"
-          },
-          {
-            "feature": "Longing expression",
-            "description": "Often appear melancholic or drawn to the sea",
-            "frequency": "common"
-          },
-          {
-            "feature": "Grace",
-            "description": "Fluid, graceful movement reminiscent of swimming",
-            "frequency": "common"
-          }
-        ]
-      }
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Shapeshifting",
-        "description": "Transform from seal to human by shedding skin, and back by donning it",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Singing",
-        "description": "Beautiful, haunting singing voices",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Dancing",
-        "description": "Love to dance on beaches, especially under moonlight",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Swimming mastery",
-        "description": "Extraordinary swimming ability even in human form",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Longevity",
-        "description": "Extended lifespan in both forms",
-        "frequency": "occasional",
-        "evidence_level": "folklore"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "diurnal",
-      "disposition": "benign",
-      "social_structure": "Both solitary and social",
-      "habitat_preference": [
-        "coastal waters",
-        "rocky shores",
-        "beaches",
-        "sea caves"
-      ],
-      "patterns": [
-        "Emerge from sea to sun themselves on rocks",
-        "Shed skins to dance and sing on beaches",
-        "Interact with humans when in human form",
-        "Deep attachment to seal skin - must have it to return to sea",
-        "If skin is stolen, become melancholic and long for ocean",
-        "Will abandon human family if seal skin is recovered"
-      ]
-    },
-    "weaknesses": [
-      {
-        "weakness": "Skin dependency",
-        "description": "Cannot return to seal form without their seal skin",
-        "severity": "critical"
-      },
-      {
-        "weakness": "Captivity vulnerability",
-        "description": "If skin is hidden, trapped in human form against their will",
-        "severity": "high"
-      }
-    ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
   },
-
   "distribution": {
     "range": {
-      "description": "Scottish, Irish, Icelandic, and Faroese coastal regions. Most prevalent in Orkney and Shetland Islands, western Scotland, and northern Ireland.",
-      "continents": ["Europe"],
-      "countries": ["Scotland", "Ireland", "Iceland", "Faroe Islands"],
-      "regions": [
-        "Orkney Islands",
-        "Shetland Islands",
-        "Hebrides",
-        "Western Scotland",
-        "Northern Ireland",
-        "West Coast of Ireland",
-        "Faroe Islands",
-        "Iceland"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Orkney Islands",
-        "location": {
-          "description": "Orkney archipelago",
-          "country": "Scotland",
-          "region": "Northern Isles"
-        },
-        "significance": "Richest concentration of selkie folklore",
-        "notes": "Multiple family lineages claim selkie ancestry"
-      },
-      {
-        "name": "Shetland Islands",
-        "location": {
-          "description": "Shetland archipelago",
-          "country": "Scotland",
-          "region": "Northern Isles"
-        },
-        "significance": "Strong selkie tradition",
-        "notes": "Many coastal caves associated with selkie stories"
-      },
-      {
-        "name": "Faroe Islands",
-        "location": {
-          "description": "Faroese archipelago",
-          "country": "Faroe Islands",
-          "region": "North Atlantic"
-        },
-        "significance": "Unique Faroese selkie traditions",
-        "notes": "Kópakonan (Seal Woman) statue commemorates tradition"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "1600s",
+        "date": "Unknown",
         "circa": true,
-        "source": "Scottish and Irish oral traditions, written records from 17th century"
-      },
-      "seasonal_patterns": "Stories often set in summer months when seals come ashore"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Ancient Celtic maritime folklore, possibly influenced by observation of seal behavior and seal hunting cultures. Reflects coastal communities' relationship with the sea and seal populations.",
-      "earliest_accounts": "Oral traditions predate written records; earliest documented tales from 1600s Scotland and Ireland.",
-      "folklore_connections": "Part of broader skin-changing mythology including swan maidens, were-creatures, and other transformation tales. Similar to Irish 'merrow' and Scottish 'ceasg' (mermaid) traditions."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-1600",
-        "event": "Oral tradition establishment",
-        "significance": "Selkie tales passed down through generations in Scottish and Irish coastal communities",
-        "source": "Oral tradition"
-      },
-      {
-        "date": "1600s",
-        "event": "First written records",
-        "significance": "Selkie folklore begins appearing in written Scottish records",
-        "source": "Scottish historical documents"
-      },
-      {
-        "date": "1859",
-        "event": "Great Silkie of Sule Skerry ballad",
-        "significance": "Traditional ballad documented, telling of male selkie and human woman",
-        "source": "Traditional ballad collection"
-      },
-      {
-        "date": "1994",
-        "event": "The Secret of Roan Inish film",
-        "significance": "John Sayles film brings selkie folklore to wider audience",
-        "source": "Film release"
-      },
-      {
-        "date": "2014",
-        "event": "Song of the Sea animated film",
-        "significance": "Irish animated film featuring selkie mythology wins widespread acclaim",
-        "source": "Cartoon Saloon film"
-      }
-    ],
-    "modern_era": "Selkie folklore remains vibrant in Scottish and Irish culture through literature, film, music, and tourism. Many families in Orkney and Shetland still claim selkie ancestry. The stories continue to resonate as metaphors for identity, belonging, and environmental connection."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Seal skin theft and captive wife narratives",
-        "Male selkie seduction stories",
-        "Children discovering their selkie heritage",
-        "Seven years in sea, seven years on land cycles"
-      ],
-      "stories": [
-        "The Great Silkie of Sule Skerry",
-        "The Goodman of Wastness and the Selkie Wife",
-        "The Seal Catcher and the Selkie",
-        "MacCodrum clan selkie ancestry"
-      ],
-      "beliefs": "Many Scottish and Irish families, particularly in the Northern Isles, claim descent from selkies. Physical markers like webbed fingers were sometimes cited as evidence. Harming seals was taboo in some communities due to selkie beliefs."
-    },
-    "indigenous": {
-      "cultures": [
-        "Scottish Highlanders",
-        "Orcadians",
-        "Shetlanders",
-        "Irish coastal communities",
-        "Faroese"
-      ],
-      "significance": "Central to maritime folklore and cultural identity in seal-hunting communities. Reflected complex relationship between humans and seals - both resource and kin.",
-      "sensitivity_note": "Selkie folklore is traditional Celtic heritage. These stories are part of living cultural traditions in Scotland, Ireland, and the Faroe Islands.",
-      "respect_guidelines": "Recognize selkie tales as meaningful cultural heritage, not mere entertainment. Understand historical context of seal hunting cultures and their spiritual relationship with marine life."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "The Secret of Roan Inish (1994) - John Sayles film",
-        "Song of the Sea (2014) - Tomm Moore animated film",
-        "The Forsaken Merman by Matthew Arnold (1849) - poem",
-        "Selkie Stories Are for Losers by Sofia Samatar (2013)",
-        "The Selkie Bride's Sorrow (traditional ballad)"
-      ],
-      "film_tv": [
-        "The Secret of Roan Inish (1994)",
-        "Song of the Sea (2014)",
-        "Ondine (2009) - Neil Jordan film",
-        "Siren (TV series, 2018-2020) - inspired by selkie lore"
-      ],
-      "music": [
-        "The Great Silkie of Sule Skerry (traditional ballad)",
-        "Recorded by Joan Baez, Steeleye Span, and others"
-      ],
-      "other": [
-        "Common motif in fantasy literature",
-        "Tourism in Orkney and Shetland features selkie heritage",
-        "Kópakonan statue in Faroe Islands"
-      ]
-    },
-    "symbolism": {
-      "themes": [
-        "Lost love and irrecoverable relationships",
-        "The untameable nature of wild things",
-        "Freedom versus captivity",
-        "Dual identity and belonging to two worlds",
-        "The pull of one's true nature",
-        "Environmental and marine conservation metaphors"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "theories": {
-    "folklore_analysis": [
-      {
-        "name": "Seal hunting culture reflection",
-        "description": "Tales reflect psychological complexity of communities dependent on hunting intelligent marine mammals",
-        "proponents": ["Folklore scholars"],
-        "evidence_cited": ["Taboos around seal hunting", "Seals' human-like eyes and cries"]
-      },
-      {
-        "name": "Marriage and captivity metaphor",
-        "description": "Stories reflect women's experiences of forced marriage and restricted freedom in patriarchal societies",
-        "proponents": ["Feminist folklore scholars"],
-        "evidence_cited": ["Stolen skin as loss of autonomy", "Inevitable return to freedom"]
-      },
-      {
-        "name": "Shapeshifter archetype",
-        "description": "Part of universal shapeshifter mythology found in cultures worldwide",
-        "proponents": ["Comparative mythology scholars"],
-        "evidence_cited": ["Similar tales in Norse, Native American, and Asian cultures"]
-      }
-    ],
-    "origin_theories": [
-      {
-        "name": "Seal behavior observation",
-        "description": "Stories inspired by seals' human-like qualities and shoreline behavior",
-        "evidence_cited": ["Seals sunbathing on rocks", "Seal vocalizations", "Human-like eyes"]
-      },
-      {
-        "name": "Finfolk conflation",
-        "description": "May have merged with or evolved from Orcadian finfolk mythology",
-        "evidence_cited": ["Similar Northern Isles origin", "Shapeshifting themes"]
-      }
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "briggs-1976",
-      "type": "book",
-      "title": "A Dictionary of Fairies",
-      "authors": ["Katharine Briggs"],
-      "publication": "Penguin Books",
-      "date": "1976",
-      "isbn": "978-0140042337"
-    },
-    {
-      "id": "thomson-2007",
-      "type": "book",
-      "title": "The People of the Sea: A Journey in Search of the Seal Legend",
-      "authors": ["David Thomson"],
-      "publication": "Canongate Books",
-      "date": "2007",
-      "isbn": "978-1841959276"
-    },
-    {
-      "id": "mackenzie-1917",
-      "type": "book",
-      "title": "Scottish Folk-Lore and Folk Life",
-      "authors": ["William Mackenzie"],
-      "publication": "Blackie & Son",
-      "date": "1917"
-    }
-  ]
+  "sources": []
 }
