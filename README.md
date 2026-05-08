@@ -1,379 +1,188 @@
 # Selkie
 
-> *"I am a man upon the land, I am a selkie in the sea."*  
-> — The Great Silkie of Sule Skerry
+> Selkies are shapeshifting beings of Northern Isles, Faroese, Icelandic, and Irish folklore who live as seals in the sea but can shed their sealskins to take human form on land. They are best known for stories in which a human steals and hides a selkie's skin, trapping the selkie in human form.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional--folklore-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `selkie` |
 | **Category** | SHAPESHIFTER |
-| **Classification** | Fae Folklore / Skin-changer |
-| **First Recorded** | ~1600s (oral tradition much older) |
-| **Primary Region** | Scotland, Ireland, Faroe Islands |
-| **Status** | Traditional folklore |
+| **Subcategory** | Seal-human shapeshifter / sea folk |
+| **First recorded** | 1641 |
+| **Primary range** | Selkie traditions cluster in the Northern Isles of Scotland (Orkney and Shetland) and along the Hebridean and northern Scottish coasts, with cognate traditions in coastal Ireland, the Faroe Islands, and Iceland |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Selkies are mythological beings from Scottish, Irish, and Faroese folklore who live as seals in the ocean but can shed their skins to become beautiful humans on land. According to legend, if a human finds and hides a selkie's seal skin, the selkie is trapped in human form and cannot return to the sea.
-
-Common tales involve humans (usually men) stealing selkie skins and marrying them, only for the selkie to eventually find their hidden skin and return to the ocean, leaving their human family behind. The stories carry deep symbolism about freedom versus captivity, the pull of one's true nature, and love that cannot fully bridge two worlds.
-
-Children of human-selkie unions often exhibit signs of their heritage, such as webbed fingers or toes and a deep longing for the sea.
+Selkies (Scots silkie, selchie; from selch 'grey seal') are shapeshifting beings of the folklore of the Northern Isles of Scotland, with cognate traditions in Ireland, the Faroe Islands, and Iceland. In their seal form they swim and hunt; on coming ashore they shed their seal-skins and take on a beautiful human form. The most common narrative type involves a man who finds a selkie woman bathing on the rocks, steals her hidden skin, and forces her into marriage; she lives as a seemingly contented wife and mother for years until she rediscovers the skin (often through a child's innocent disclosure) and immediately returns to the sea, sometimes meeting her seal husband and seal-children. Counterpart tales describe male selkies who come ashore to seduce dissatisfied human women, particularly fishermen's wives. Children of mixed unions are often marked by webbed fingers and toes, an affinity for the sea, or a recurring longing to return there. The figure has been the subject of ballad ('The Great Silkie of Sule Skerry'), Faroese narrative tradition (Kópakonan of Mikladalur), and academic folklore study by W. Traill Dennison, Samuel Hibbert, Ernest Marwick, and Alan Bruford. The tales have been read both as a regional swan-maiden type and as encoded reflections on Indigenous-Norse contact, on women's confinement in island marriages, and on the porousness of the sea-edge.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Silkie | Scots / Orkney and Shetland | alternate spelling of selkie |
+| Selchie | Scots / Scotland | alternate spelling |
+| Sylkie | Scots / Scotland |  |
+| Selkie folk | English / Northern Isles |  |
+| Seal-folk | English / Scotland and Ireland |  |
+| Kópakonan | Faroese / Faroe Islands | the seal woman |
+| Selshamur | Icelandic / Iceland | the seal-skin |
+| Maighdean-mhara | Scottish Gaelic / Scotland | sea maiden (overlapping use) |
+| Roane | Irish / Ireland | seal (used for selkie-like beings in Irish folklore) |
 
-### Primary Name
-- **Selkie** — From Scots "selch" or "selk," meaning "seal," ultimately from Old English "seolh"
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Selchie | Scots | Alternative spelling |
-| Silkie | Scots (Orkney) | Northern Isles variant |
-| Selch | Scots | Simply "seal" |
-| Roane | Irish | Irish variant |
-| Selkiefolk | English | "Seal folk" or "seal people" |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: SHAPESHIFTER
-├── Type: Fae/Supernatural
-├── Subtype: Skin-changer
-└── Variant: Celtic Maritime
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| Merfolk | Similar | Marine humanoids (non-shapeshifting) |
-| Swan Maiden | Parallel mythology | Similar skin-stealing narratives |
-| [Kitsune](/kitsune) | Similar | Japanese shapeshifting fox spirits |
-| [Werewolf](/werewolf) | Similar | Shapeshifter archetype |
+- **Origin**: Scots language
+- **Meaning**: Diminutive of selch ('grey seal'); selkie literally means 'little seal' or 'seal-folk'.
+- **First use**: 19th century in printed Scots; oral usage older
 
 ---
+## Related Phenomena
 
-## Characteristics
-
-### Physical Description
-
-**Seal Form:**
-- Appears as a normal seal in water
-- Grey, brown, or spotted coloration
-- Large, soulful, intelligent eyes
-- Graceful swimmers
-
-**Human Form:**
-- Extraordinarily beautiful or handsome
-- Often dark-haired with pale skin
-- Fluid, graceful movement
-- Melancholic or longing expression
-- Occasional webbed fingers/toes (especially half-selkie children)
-
-### Reported Abilities
-
-| Ability | Description | Frequency |
-|---------|-------------|-----------|
-| Shapeshifting | Transform from seal to human by shedding skin | Always |
-| Singing | Beautiful, haunting singing voices | Common |
-| Dancing | Love to dance on beaches under moonlight | Common |
-| Swimming mastery | Extraordinary swimming ability in both forms | Always |
-| Longevity | Extended lifespan | Occasional |
-
-### Behavioral Patterns
-
-- **Activity Period**: Diurnal (day-active)
-- **Disposition**: Benign, gentle
-- **Social Structure**: Both solitary and social
-- **Habitat Preference**: Coastal waters, rocky shores, beaches, sea caves
-
-**Common Behaviors:**
-- Emerge from sea to sun themselves on rocks
-- Shed skins to dance and sing on beaches
-- Interact with humans when in human form
-- Deep attachment to seal skin - essential for returning to sea
-- Become melancholic if skin is stolen and trapped on land
-- Will abandon human family if seal skin is recovered
-
-### Weaknesses
-
-| Weakness | Description | Severity |
-|----------|-------------|----------|
-| Skin dependency | Cannot return to seal form without their seal skin | Critical |
-| Captivity vulnerability | If skin is hidden, trapped in human form | High |
+- [Merrow](../merrow/) — _similar_: Irish merfolk; merrow females have a magical cohuleen druith (red cap) analogous to the sealskin
+- [Kópakonan](../kopakonan/) — _regional_variant_: Faroese seal-woman of Mikladalur on Kalsoy
+- [Swan maiden](../swan-maiden/) — _similar_: Cross-cultural folkloric type in which a captured skin/feather garment binds a supernatural bride to a human
+- [Finfolk](../finfolk/) — _related_: Orcadian sorcerous sea-folk; share Northern Isles folklore complex
+- [Mermaid](../mermaid/) — _related_: Broader European sea-woman tradition with which selkie tales sometimes intersect
 
 ---
+## Physical Description
 
-## Geographic Distribution
+- **Coloration**: grey (seal form), dark brown, spotted (mottled grey)
+- **Morphology**: Theriomorphic: in sea form a true seal (typically the grey seal Halichoerus grypus); in land form a fully human-presenting individual whose only material trace of the other form is the discarded skin.
 
-### Primary Range
+### Features
 
-Scottish, Irish, Icelandic, and Faroese coastal regions. Most prevalent in Orkney and Shetland Islands, western Scotland, and northern Ireland.
+| Feature | Description | Frequency |
+|---|---|---|
+| Sealskin | Removable seal-pelt that allows transformation to and from human form. The skin must be kept hidden by a captor; if recovered, the selkie returns to the sea immediately. | always |
+| Beautiful human form | When ashore, selkies appear as strikingly beautiful humans (most accounts emphasise women with dark hair and dark eyes). | always |
+| Webbed fingers and toes (in offspring) | Children of selkie–human unions are often described in tales as having webbed digits or unusual seal-like marks. | common |
+| Eyes of the seal kind | In human form, large dark eyes are recurring; some Orcadian and Shetland accounts describe selkies as recognisable by their eyes alone. | common |
 
-### Cultural Hotspots
+## Reported Abilities
 
-| Location | Region | Significance |
-|----------|--------|--------------|
-| Orkney Islands | Scotland | Richest concentration of selkie folklore |
-| Shetland Islands | Scotland | Strong selkie tradition, many coastal caves |
-| Faroe Islands | North Atlantic | Unique Faroese traditions, Kópakonan statue |
-| Western Isles | Scotland | Hebridean selkie tales |
-| Northern Ireland | Ireland | Irish coastal selkie stories |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Skin-shedding transformation | Shedding the sealskin allows passage from seal to human form; donning it returns the selkie to the sea. | always | folklore |
+| Singing and music | Selkies are described in several ballads (notably 'The Great Silkie of Sule Skerry') as singing mournfully on skerries. | common | folklore |
+| Recognition of kin | Selkies recognise their seal-children and seal-mate when encountered at sea after returning. | common | folklore |
 
----
+## Behavior
 
-## Common Narratives
-
-### The Stolen Skin
-
-The most common selkie story follows this pattern:
-
-1. A man discovers a beautiful woman (or group of women) dancing on a beach
-2. He finds their seal skins hidden nearby and steals one
-3. Unable to return to the sea, the selkie marries the man
-4. They have children together, though the selkie remains melancholic
-5. Years later, the selkie discovers the hidden skin
-6. She immediately returns to the sea, leaving husband and children
-7. She may visit her children from the sea but cannot stay
-
-### The Male Selkie
-
-Less common but significant:
-
-- Male selkies seduce human women
-- Visit women whose husbands are away (fishermen at sea)
-- Father children and return to sea
-- Children may have webbed fingers/toes or other selkie markers
-- Women sometimes pine for their selkie lovers
-
-### The Selkie Child
-
-- Child of human-selkie union discovers their heritage
-- Often has webbed fingers/toes
-- Feels profound longing for the sea
-- May discover hidden seal skin and choose the ocean
-- Struggles with dual identity
+- **Activity**: variable
+- **Disposition**: neutral
+- **Social structure**: variable
+- **Habitat**: rocky coastlines, skerries, small uninhabited islands, tidal beaches, sea caves
+- **Diet**: Fish (consistent with seal biology)
 
 ---
+## Distribution
 
+Selkie traditions cluster in the Northern Isles of Scotland (Orkney and Shetland) and along the Hebridean and northern Scottish coasts, with cognate traditions in coastal Ireland, the Faroe Islands, and Iceland. The cultural distribution corresponds closely to the historic range of Norse settlement and the grey seal's North Atlantic range.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Sule Skerry | Orkney, Scotland (United Kingdom) |  | Pre-1850 (ballad collection) |
+| Mikladalur | Kalsoy, Faroe Islands |  | Traditional; the statue dates to 2014 |
+| Deerness | Orkney, Scotland (United Kingdom) |  | 19th century |
+
+---
 ## Historical Timeline
 
-### Origins
-
-Ancient Celtic maritime folklore, possibly influenced by observation of seal behavior in seal-hunting cultures. Reflects coastal communities' complex relationship with the sea and seal populations.
-
-### Key Moments
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-1600 | Oral tradition | Stories passed through generations in Celtic coastal communities |
-| 1600s | First written records | Selkie folklore documented in Scottish texts |
-| 1859 | Great Silkie ballad | Traditional ballad documented and preserved |
-| 1994 | The Secret of Roan Inish | Film brings selkie folklore to wider audience |
-| 2014 | Song of the Sea | Irish animated film wins international acclaim |
+|---|---|---|
+| 1641 | Jón Guðmundsson the Learned records an early Icelandic version of the seal-skin tale | Earliest known written form of the selkie-type narrative in the North Atlantic |
+| 1822 | Samuel Hibbert publishes 'A Description of the Shetland Islands', describing Shetland selkie traditions | First widely-read English-language treatment |
+| 1893 | W. Traill Dennison publishes North Ronaldsay and Deerness selkie tales in The Scottish Antiquary | Foundational scholarly collection of Orcadian selkie material |
+| 1975 | Ernest Marwick publishes 'The Folklore of Orkney and Shetland' | Synthesis of Northern Isles selkie tradition |
+| 1994 | Release of John Sayles's film 'The Secret of Roan Inish' | Major cinematic treatment introducing selkie folklore to a wide audience |
+| 2014-08-01 | Bronze statue of the Kópakonan unveiled at Mikladalur, Faroe Islands (sculptor Hans Pauli Olsen) | Public monument to the Faroese seal-woman tradition |
+| 2014 | Release of Tomm Moore's animated film 'Song of the Sea' | Internationally distributed film centred on Irish selkie folklore |
 
-### Modern Era
+## Evidence
 
-Selkie folklore remains vibrant in Scottish and Irish culture through literature, film, music, and tourism. Many families in Orkney and Shetland still claim selkie ancestry. The stories continue to resonate as metaphors for identity, belonging, and environmental connection.
+### Documentary
 
----
-
-## Cultural Significance
-
-### Celtic Tradition
-
-> ⚠️ **Cultural Sensitivity Note**: Selkie folklore is traditional Celtic heritage. These stories are part of living cultural traditions in Scotland, Ireland, and the Faroe Islands.
-
-**Communities with Selkie Traditions:**
-- Scottish Highlanders
-- Orcadians and Shetlanders
-- Irish coastal communities
-- Faroese
-
-**Beliefs and Practices:**
-- Many families claim descent from selkies
-- Physical markers (webbed fingers) cited as evidence
-- Harming seals was taboo in some communities
-- Reflected complex relationship: seals as both resource and kin
-
-### Symbolism & Themes
-
-**Core Themes:**
-- **Lost love** — Relationships that cannot last between two worlds
-- **Freedom vs. captivity** — The imprisonment of taking someone's true nature
-- **Untameable nature** — Wild things cannot be domesticated
-- **Dual identity** — Belonging to two worlds, fully belonging to neither
-- **True nature** — The inevitable pull of what we really are
-
-**Modern Interpretations:**
-- Feminist readings: Women's autonomy and forced marriage
-- Environmental: Connection to marine conservation
-- Identity: Immigration, assimilation, belonging
-
-### Popular Culture
-
-**Literature:**
-- *The Secret of Roan Inish* (1994) - John Sayles film
-- *Song of the Sea* (2014) - Tomm Moore animated film
-- *Selkie Stories Are for Losers* by Sofia Samatar (2013)
-- *The Forsaken Merman* by Matthew Arnold (1849)
-
-**Film/TV:**
-- *The Secret of Roan Inish* (1994)
-- *Song of the Sea* (2014)
-- *Ondine* (2009) - Neil Jordan film
-- *Siren* (TV series, 2018-2020)
-
-**Music:**
-- *The Great Silkie of Sule Skerry* (traditional ballad)
-- Recorded by Joan Baez, Steeleye Span, Sting, and many others
-
-**Other:**
-- Kópakonan (Seal Woman) statue in Faroe Islands
-- Tourism in Orkney and Shetland features selkie heritage
-- Common motif in fantasy literature
+| Name | Date | Description | Status |
+|---|---|---|---|
+| W. Traill Dennison's Orkney selkie tales | 1893 | Two selkie narratives — including a North Ronaldsay version and a Deerness version — recorded by W. Traill Dennison and published in The Scottish Antiquary. | verified |
+| The Great Silkie of Sule Skerry (Child Ballad 113) | Collected 19th century | Traditional Orcadian/Shetland ballad of a male selkie who fathers a child by a human woman and later returns to claim him. | verified |
 
 ---
+## Theories & Explanations
 
-## Theories & Interpretations
+### Paranormal / Cryptozoological
 
-### Folklore Analysis
+**Genuine sea-folk** _(Tradition-bearers in Orkney, Shetland, the Faroes, and Ireland)_
 
-**Seal Hunting Culture Reflection**
-- Tales reflect psychological complexity of hunting intelligent marine mammals
-- Seals' human-like eyes and cries
-- Taboos around seal hunting in some communities
+Within tradition, selkies are real sentient beings of a sea-world parallel to the human one; the tales document encounters rather than invent them.
 
-**Marriage and Captivity Metaphor**
-- Stories reflect women's experiences of forced marriage
-- Stolen skin represents loss of autonomy
-- Inevitable return represents triumph of freedom
+### Skeptical
 
-**Shapeshifter Archetype**
-- Part of universal shapeshifter mythology
-- Similar to swan maiden tales (European)
-- Parallels in Native American and Asian cultures
+**Folkloric tale-type (swan-maiden / ATU 400)** _(Alan Bruford, Ernest Marwick, Carole G. Silver)_
 
-### Origin Theories
+Selkie stories are a regional variant of the global swan-maiden tale-type; they encode anxieties about marriage, gendered confinement, and the porousness of sea and land rather than describe real beings.
 
-**Seal Behavior Observation**
-- Inspired by seals sunbathing on rocks
-- Seal vocalizations and human-like qualities
-- Seals' expressive eyes
+**Misidentified seals and shipwrecked humans** _(David Thomson)_
 
-**Finfolk Conflation**
-- May have merged with Orcadian finfolk mythology
-- Both are Northern Isles shapeshifting traditions
+Hypothesis that some accounts emerged from misidentified grey seals on rocks (whose vocalisations and human-like forms are striking) and from contact with shipwrecked or wandering Sámi/Inuit/Norse individuals dressed in skins.
+
+
+## Popular Culture
+
+**Literature**: The People of the Sea — David Thomson (1954); The Folklore of Orkney and Shetland — Ernest Marwick (1975); Strange and Secret Peoples: Fairies and Victorian Consciousness — Carole G. Silver (1999); The Brides of Rollrock Island — Margo Lanagan (2012)
+
+**Film / TV**: The Secret of Roan Inish (1994, dir. John Sayles); Ondine (2009, dir. Neil Jordan); Song of the Sea (2014, dir. Tomm Moore)
+
+**Music**: 'The Great Silkie of Sule Skerry' — traditional, recorded by Joan Baez, Judy Collins, and others; 'Sule Skerry' — Solas (2000)
+
+**Other**: Kópakonan bronze statue, Mikladalur, Faroe Islands (Hans Pauli Olsen, 2014)
 
 ---
+## Research
 
-## Selkie Ancestry Claims
+### Researchers
 
-Many Scottish families, particularly in Orkney and Shetland, claim selkie ancestry:
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| W. Traill Dennison | Independent (Orkney) | Late-19th-century collection of Orcadian selkie tales | 1880s–1890s |
+| Samuel Hibbert | Independent / Royal Society of Edinburgh | Early printed treatment of Shetland selkie material | 1822 |
+| Ernest Marwick | Independent (Orkney) | Synthesis of Northern Isles folklore | 1950s–1970s |
+| Alan Bruford | School of Scottish Studies, University of Edinburgh | Tale-type analysis and Scottish-traveller comparative material | 1960s–1990s |
+| David Thomson | Independent (Ireland/UK) | Long-form ethnography 'The People of the Sea' interviewing selkie tradition-bearers | 1949–1954 |
 
-- **Clan MacCodrum** — "Children of the Seal" from Outer Hebrides
-- **Orkney families** — Multiple lineages with oral tradition of selkie ancestors
-- **Physical markers** — Webbed fingers/toes sometimes cited as evidence
-- **Cultural identity** — Selkie descent as source of pride and connection to the sea
+### Organizations
 
----
+- [School of Scottish Studies, University of Edinburgh](https://www.ed.ac.uk/literatures-languages-cultures/celtic-scottish-studies) — Archive and study of Scottish folklore, including selkie tradition
+- [Orkney Heritage Society](https://www.orkneyheritage.com) — Local heritage and folklore of Orkney
 
-## Famous Selkie Tales
-
-### The Great Silkie of Sule Skerry
-
-Traditional ballad about a male selkie who visits a human woman:
-- Selkie fathers her child
-- Returns from the sea to claim the child
-- Prophesies he and the child will be killed by the woman's future husband
-- One of the most famous selkie ballads
-
-### The Goodman of Wastness
-
-Orkney tale:
-- Man steals selkie's skin
-- Marries her and has children
-- Selkie finds hidden skin
-- Returns to sea, occasionally visiting children
-- Classic stolen-skin narrative
+Continuing scholarship on selkie tradition focuses on tale-type analysis (ATU 400/402), gender and marriage, ecology of human–seal coexistence, and the use of selkie tradition in contemporary Scottish, Irish, and Faroese literature and film.
 
 ---
+## Sources
 
-## How to Report Folklore
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-If you have selkie stories from your family or community:
 
-1. **GitHub Issue**: [Submit Folklore Report](../../issues/new?template=folklore_report.yml)
-2. **Required Information**:
-   - Geographic origin of the tale
-   - How the story was passed down
-   - Any unique elements or variations
-   - Cultural context
+## How to Report a Sighting
 
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for full submission requirements.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const selkie = await wyrd.getPhenomenon('selkie');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/selkie/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Thomson, D. (2007). *The People of the Sea: A Journey in Search of the Seal Legend*. Canongate Books.
-- Briggs, K. (1976). *A Dictionary of Fairies*. Penguin Books.
-- Mackenzie, W. (1917). *Scottish Folk-Lore and Folk Life*. Blackie & Son.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Folklore](../../issues/new?template=folklore_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
